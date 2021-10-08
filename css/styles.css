@@ -11307,8 +11307,8 @@ html {
 header.masthead {
   position: relative;
   overflow: hidden;
-  padding-top: calc(7rem + 72px);
-  padding-bottom: 7rem;
+  padding-top: calc(3rem + 1px);
+  padding-bottom: 3rem;
   background: url("../assets/img/laptop.jpg");
   background-repeat: no-repeat;
   background-position: center center;
